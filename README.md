@@ -1,11 +1,11 @@
 # stm32g0-bootloader-IAP
-The bootloader code is developed in stm32cubeIDE.
-You may upload the application file using teraterm or the python code (will be uploaded soon)
+The bootloader code is developed in stm32cubeIDE.<br />
+You may upload the application file using teraterm or the python code (will be uploaded soon)<br />
 
 # Issue 
-The bootloader and application only run well if code generated in Debugging mode. 
-Unable to jump into application if code generated in Release mode. Unknown issue.
-The cubeMX will generate wrong constant of CRC.
+The bootloader and application only run well if code generated in Debugging mode. <br />
+Unable to jump into application if code generated in Release mode. Unknown issue.<br />
+The cubeMX will generate wrong constant of CRC.<br />
 
 # Rom Address
 Rom Address for Application Code start from 8000
