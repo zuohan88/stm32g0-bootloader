@@ -1,5 +1,5 @@
 # stm32g0-bootloader-IAP
-The bootloader code is developed in stm32cubeIDE\n\r
+The bootloader code is developed in stm32cubeIDE.
 You may upload the application file using teraterm or the python code (will be uploaded soon)
 
 # Issue 
